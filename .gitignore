@@ -1,0 +1,18 @@
+# Credenciales y configuración local
+config.json
+
+# Archivos de caché de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Entornos virtuales
+.venv/
+env/
+venv/
+.env
+
+# Archivos de sistema / IDE
+.vscode/
+.idea/
+.DS_Store
